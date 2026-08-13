@@ -1,0 +1,458 @@
+window.CV_DATA = {
+  "journal": [
+    {
+      "year": 2026,
+      "text": "Ishida S, Imai R, Kitaji Y, Harashima H, Miyano S, Kawano Y. Calf circumference cutoffs for detecting low muscle mass in older patients with subacute stroke: diagnostic accuracy and association with nutritional status. International Journal of Rehabilitation Research. 2026;49(1):11-17. doi:10.1097/MRR.0000000000000686."
+    },
+    {
+      "year": 2024,
+      "text": "Ishida S, Kitaji Y, Yasuda K, Yamashita H, Harashima H, Miyano S. Association of comorbidities with postoperative walking independence in patients with hip fractures: a single-center, retrospective, observational study. International Journal of Rehabilitation Research. 2024;47(2):110-115. doi:10.1097/MRR.0000000000000622."
+    },
+    {
+      "year": 2023,
+      "text": "Kitaji Y, Sato H, Ishida S, Harashima H, Miyano S. Assessing lower limb angles from sagittal plane images captured with a smartphone for post-stroke gait. Physiotherapy Practice and Research. 2023;44(2):69-77. doi:10.3233/PPR-230739."
+    },
+    {
+      "year": 2023,
+      "text": "北地雄, 原島宏明, 宮野佐年. 慣性センサを使用した歩行時の下肢関節角度計測の信頼性と妥当性. 理学療法東京. 2023;(11):3-12."
+    },
+    {
+      "year": 2020,
+      "text": "Kitaji Y, Harashima H, Miyano S. Relationship between first mobilization following the onset of stroke and clinical outcomes in patients with ischemic stroke in the general ward of a hospital: A cohort study. Physical Therapy Research. 2020;23(2):209-215. doi:10.1298/ptr.E10022."
+    },
+    {
+      "year": 2017,
+      "text": "Yasuda K, Saichi K, Kitaji Y, Harashima H, Iwata H. Development of an implicit method for directing weight shifting to the affected side in patients with stroke: a proof of concept study. ROBOMECH Journal. 2017;4:26. doi:10.1186/s40648-017-0094-2."
+    },
+    {
+      "year": 2014,
+      "text": "北地雄, 原島宏明, 宮野佐年. 脳卒中片麻痺者における歩行の運動イメージと歩行能力および歩行自立度との関連. 理学療法科学. 2014;29(1):25-31. doi:10.1589/rika.29.25."
+    },
+    {
+      "year": 2014,
+      "text": "北地雄, 鈴木淳志, 原島宏明, 宮野佐年. 脳卒中後の回復期病棟入院時の身体機能面，心理・精神的側面，社会的側面，およびQuality of Lifeの関係 1．抑うつ症状とアパシー. 理学療法科学. 2014;29(6):995-1000. doi:10.1589/rika.29.995."
+    },
+    {
+      "year": 2014,
+      "text": "北地雄, 鈴木淳志, 原島宏明, 宮野佐年. 脳卒中後の回復期病棟入院時の身体機能面，心理・精神的側面，社会的側面，およびQuality of Lifeの関係 2．Quality of Life. 理学療法科学. 2014;29(6):1017-1022. doi:10.1589/rika.29.1017."
+    },
+    {
+      "year": 2014,
+      "text": "北地雄, 鈴木淳志, 原島宏明, 宮野佐年. 脳卒中後の回復期病棟入院時の身体機能面，心理・精神的側面，社会的側面，およびQuality of Lifeの関係 3．リハビリテーションに対するモチベーション. 理学療法科学. 2014;29(6):1023-1026. doi:10.1589/rika.29.1023."
+    },
+    {
+      "year": 2013,
+      "text": "北地雄, 原島宏明, 宮野佐年. 脳血管疾患後の片麻痺者を対象としたFunctional Balance Scaleの構成要素の検討. 理学療法科学. 2013;28(1):95-99. doi:10.1589/rika.28.95."
+    },
+    {
+      "year": 2013,
+      "text": "北地雄, 原島宏明, 宮野佐年. 脳卒中片麻痺者の転倒恐怖感と担当療法士の転倒リスク評価の関係性. 理学療法科学. 2013;28(1):125-129. doi:10.1589/rika.28.125."
+    },
+    {
+      "year": 2012,
+      "text": "北地雄, 原辰成, 佐藤優史, 原島宏明, 宮野佐年. 脳血管疾患者におけるTimed Up and Go testの試行間の変動と歩行自立度の関係. 理学療法科学. 2012;27(4):427-432. doi:10.1589/rika.27.427."
+    },
+    {
+      "year": 2011,
+      "text": "北地雄, 原辰成, 佐藤優史, 重國宏次, 清藤恭貴, 古川広明, 原島宏明. 回復期リハビリテーション病棟に入院中の脳血管疾患後片麻痺を対象とした歩行自立判断のためのパフォーマンステストのカットオフ値. 理学療法学. 2011;38(7):481-488. doi:10.15063/rigaku.KJ00007731335."
+    }
+  ],
+  "proceedings": [
+    {
+      "year": 2020,
+      "text": "Ling J, Hong JC, Hayashi Y, Yasuda K, Kitaji Y, Harashima H, Iwata H. A haptic-based perception-empathy biofeedback system with vibration transition: verifying the attention amount. 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC); 2020:3779-3782. doi:10.1109/EMBC44109.2020.9176213."
+    },
+    {
+      "year": 2019,
+      "text": "Hayashi Y, Yasuda K, Kitaji Y, Harashima H, Iwata H. A haptic-based perception-empathy biofeedback device that supplements foot pressure pattern during gait in stroke patients. 2019 IEEE/SICE International Symposium on System Integration (SII); 2019:124-128. doi:10.1109/SII.2019.8700364."
+    },
+    {
+      "year": 2016,
+      "text": "Saichi K, Yasuda K, Kitaji Y, Kaibuki N, Iwata H. Development and pilot clinical evaluation of a haptic-based perception-empathy biofeedback device for gait rehabilitation. 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC); 2016:6158-6161. doi:10.1109/EMBC.2016.7592134."
+    },
+    {
+      "year": 2015,
+      "text": "Horikawa S, Yasuda K, Kaibuki N, Kitaji Y, Harashima H, Iwata H. Development of the implicit method that directs weight shifting to the affected side in stroke patients. Proceedings of the 6th International Conference on Advanced Mechatronics (ICAM2015); 2015:317-318. doi:10.1299/jsmeicam.2015.6.317."
+    }
+  ],
+  "reviews": [
+    {
+      "year": 2025,
+      "text": "北地雄. 脳血管障害患者における臨床予測ルールの適用. 理学療法学. 2025;52(6):409-417. doi:10.15063/rigaku.52-6kikaku_Kitaji_Yu."
+    },
+    {
+      "year": 2021,
+      "text": "北地雄, 山本雅樹. モーションセンサーを用いた動作分析装置. 総合リハビリテーション. 2025;53(2):213-218. doi:10.11477/mf.038698220530020213."
+    },
+    {
+      "year": 2027,
+      "text": "北地雄, 原島宏明, 宮野佐年. 運動イメージを利用した歩行トレーニング. 理学療法ジャーナル. 2022;56(9):1053-1062. doi:10.11477/mf.1551202790."
+    },
+    {
+      "year": 2021,
+      "text": "Kitaji Y. Mini-Review: Motor Imagery for Gait Rehabilitation Individual with Stroke. Annals of Physiotherapy & Occupational Therapy. 2021;4(4):000215. doi:10.23880/APhOT-16000215."
+    }
+  ],
+  "invited": [
+    {
+      "year": 2024,
+      "text": "北地雄. 症例検討の始め方、進め方. 第43回東京都理学療法学術大会; 2024 Sep 14; 東京. 教育セミナー."
+    },
+    {
+      "year": 2024,
+      "text": "北地雄. 症例検討・研究のすすめ方（案内時仮題）. 東京都理学療法士協会 区西南部・区西部ブロック部症例検討会; 2024 Jan 13; 東京. 講演."
+    },
+    {
+      "year": 2022,
+      "text": "北地雄. 脳卒中とclinical outcomes―臨床評価のスタンダードから一歩先まで―. 第27回日本基礎理学療法学会学術大会; 2022 Oct 1. 教育講演7."
+    },
+    {
+      "year": 2018,
+      "text": "北地雄. 症例検討の意義と進め方. 東京都理学療法士協会 区西南部・区西部ブロック症例検討会; 2018. 特別講演."
+    },
+    {
+      "year": 2015,
+      "text": "北地雄. 脳卒中リハビリテーションの臨床評価―急性期の予後予測から回復期の歩行自立度評価およびQOLを含めた心理・精神的，社会的状態の評価まで―. 第50回日本理学療法学術大会; 2015 Jun 5; 東京. ヤングインパクトプレゼンテーション5."
+    },
+    {
+      "year": 2014,
+      "text": "北地雄. NIHSSとmodified NIHSS. 第1回日本基礎理学療法学会学術集会・日本基礎理学療法学会第19回学術大会合同大会; 2014. ミニシンポジウム4「理学療法評価学―臨床研究と基礎研究のインテグレーション」."
+    }
+  ],
+  "international": [
+    {
+      "year": 2020,
+      "text": "Ling J, Hong JC, Hayashi Y, Yasuda K, Kitaji Y, Harashima H, Iwata H. A haptic-based perception-empathy biofeedback system with vibration transition: verifying the attention amount. 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC); 2020."
+    },
+    {
+      "year": 2019,
+      "text": "Kitaji Y, Ishida S, Harashima H, Miyano S. Fast speed walking exerts detrimental effect on unaffected side intra-limb coordination for postacute phase stroke. 13th World Congress of the International Society of Physical and Rehabilitation Medicine (ISPRM); 2019 Jun 9-13; Kobe, Japan. Poster P1-67."
+    },
+    {
+      "year": 2019,
+      "text": "Hayashi Y, Yasuda K, Kitaji Y, Harashima H, Iwata H. A haptic-based perception-empathy biofeedback device that supplements foot pressure pattern during gait in stroke patients. 2019 IEEE/SICE International Symposium on System Integration (SII); 2019."
+    },
+    {
+      "year": 2017,
+      "text": "Kitaji Y, Watanabe S, Harashima H, Miyano S. The difference between thalamic hemorrhage and putaminal hemorrhage. 5th Singapore Rehabilitation Conference; 2017; Singapore. Shortlisted for Best Poster Presentation Award."
+    },
+    {
+      "year": 2017,
+      "text": "Hobo K, Kitaji Y, Watanabe S, Harashima H, Miyano S. The relationship between lesion volume and outcomes after stroke. 5th Singapore Rehabilitation Conference; 2017; Singapore."
+    },
+    {
+      "year": 2016,
+      "text": "Saichi K, Yasuda K, Kitaji Y, Kaibuki N, Iwata H. Development and pilot clinical evaluation of a haptic-based perception-empathy biofeedback device for gait rehabilitation. 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC); 2016; Orlando, FL, USA."
+    },
+    {
+      "year": 2016,
+      "text": "Kitaji Y, Watanabe S, Harashima H, Miyano S. When and how can we predict the outcome of acute stage of stroke patients? 10th ISPRM World Congress; 2016; Kuala Lumpur, Malaysia."
+    },
+    {
+      "year": 2015,
+      "text": "Horikawa S, Yasuda K, Kaibuki N, Kitaji Y, Harashima H, Iwata H. Development of the implicit method that directs weight shifting to the affected side in stroke patients. 6th International Conference on Advanced Mechatronics (ICAM2015); 2015; Tokyo, Japan."
+    }
+  ],
+  "domestic": [
+    {
+      "year": 2025,
+      "text": "石田晋ノ介, 北地雄, 今井亮太, 原島宏明, 宮野佐年. 回復期脳卒中患者における栄養療法の媒介関係を考慮した日常生活活動能力改善と入院時栄養失調の関連性. 第44回東京都理学療法学会学術大会; 2025."
+    },
+    {
+      "year": 2024,
+      "text": "石田晋ノ介, 北地雄, 今井亮太, 原島宏明, 宮野佐年. 回復期脳卒中患者における栄養療法の媒介関係を考慮した日常生活活動能力改善と入院時栄養失調の関連性. 第22回日本神経理学療法学会学術大会; 2024."
+    },
+    {
+      "year": 2023,
+      "text": "北地雄, 山本雅樹, 石田晋ノ介, 宮野佐年. 機械学習を使用した歩行動画の膝関節角度計測の信頼性と妥当性. 第28回日本基礎理学療法学会学術大会; 2023. O-19-01."
+    },
+    {
+      "year": 2023,
+      "text": "山本雅樹, 北地雄, 安田和弘, 長谷川雄紀, 宮野佐年. 足底の感覚障害を呈した脳卒中者に対して体性感覚型FBを使用した歩行練習効果―ABA’デザインによる検討―. 第21回日本神経理学療法学会学術大会; 2023."
+    },
+    {
+      "year": 2023,
+      "text": "石田晋ノ介, 北地雄, 山下遼弥, 安田貴美, 原島宏明, 宮野佐年. 高齢大腿骨近位部骨折患者の併存疾患が術後歩行能力へ及ぼす影響. 第11回日本運動器理学療法学会学術大会; 2023."
+    },
+    {
+      "year": 2022,
+      "text": "北地雄. IMUセンサを用いた運動学的歩行分析の計測信頼性. 第27回日本基礎理学療法学会学術大会; 2022."
+    },
+    {
+      "year": 2022,
+      "text": "牟田真介, 北地雄, 遠藤敦, 松本浩一, 原島宏明. DeepLabCutを用いた歩行時の股関節角度計測と信頼性の検証. 第41回関東甲信越ブロック理学療法士学会・第41回東京都理学療法学術大会合同大会; 2022. O-18-3."
+    },
+    {
+      "year": 2022,
+      "text": "安田貴美, 原島宏明, 宮野佐年, 北地雄. ビッカースタッフ脳幹脳炎により運動失調を呈した症例報告. 第41回関東甲信越ブロック理学療法士学会・第41回東京都理学療法学術大会合同大会; 2022."
+    },
+    {
+      "year": 2022,
+      "text": "松田直也, 石田晋ノ介, 北地雄, 森健太郎. 脳梗塞入院患者におけるNIHSSを用いた日常生活自立予測の可能性について. 第20回日本神経理学療法学会学術大会; 2022."
+    },
+    {
+      "year": 2022,
+      "text": "石田晋ノ介, 北地雄, 原島宏明, 宮野佐年. ギラン・バレー症候群後の歩行障害に対するHONDA歩行アシストの歩行能力向上効果―ABシングルケースデザイン―. 第20回日本神経理学療法学会学術大会; 2022."
+    },
+    {
+      "year": 2021,
+      "text": "山本雅樹, 北地雄, 原島宏明, 宮野佐年. 意識されない身体失認がADLへの阻害因子となった一例―ABA’法を用いた段階的イメージ練習効果の検討―. 第40回関東甲信越ブロック理学療法士学会; 2021. O10-1."
+    },
+    {
+      "year": 2021,
+      "text": "安田貴美, 北地雄, 田中優太, 野口雄太, 山本雅樹, 原島宏明, 宮野佐年. 低アーチ足を有する患者に対するアーチサポートが歩行速度へ与える影響. 第39回東京都理学療法学術大会; 2021."
+    },
+    {
+      "year": 2021,
+      "text": "山下遼弥, 北地雄, 原島宏明, 宮野佐年. Honda歩行アシストの使用感が歩行パフォーマンスに与える影響―使用感が不良であった対象者に対して―. 日本地域・支援工学・教育合同理学療法学会学術大会（第10回日本支援工学理学療法学会学術大会）; 2021."
+    },
+    {
+      "year": 2021,
+      "text": "前島拓, 北地雄, 松本浩一, 原島宏明. 当院訪問リハビリテーションにおける継続に着目した意識調査. 第8回区西部・西南部ブロック理学療法学術大会; 2021."
+    },
+    {
+      "year": 2021,
+      "text": "牟田真介, 北地雄, 遠藤敦, 松本浩一. DeepLabCutを使用したトラッキングによる歩行分析の試み. 第8回区西部・西南部ブロック理学療法学術大会; 2021."
+    },
+    {
+      "year": 2021,
+      "text": "細谷亮一, 北地雄, 諏訪健太, 原島宏明, 宮野佐年. 歩行障害を有する脳卒中患者への足首アシスト装置CoCoroe AADの使用が歩行速度に与える影響. 第8回区西部・西南部ブロック理学療法学術大会; 2021."
+    },
+    {
+      "year": 2020,
+      "text": "石田晋ノ介, 北地雄, 原辰成, 宮野佐年. 回復期脳卒中片麻痺者における最大歩行速度と力学的エネルギー変換効率の関係. 第18回日本神経理学療法学会学術大会; 2020. W-35."
+    },
+    {
+      "year": 2020,
+      "text": "北地雄, 安田和弘, 宮野佐年. 小脳出血後のバランス能力の回復過程―回復良好であったが予測的姿勢制御の問題が残存した症例―. 第18回日本神経理学療法学会学術大会; 2020. W-210."
+    },
+    {
+      "year": 2020,
+      "text": "Ling J, 林勇希, 安田和弘, 今村紗英子, 北地雄, 原島宏明, 岩田浩康. 知覚支援RTを用いた歩行運動学習戦略―補完情報による注意偏在に基づく介入基準設定手法の構築―. 第21回計測自動制御学会システムインテグレーション部門講演会（SI2020）; 2020. 2C2-04."
+    },
+    {
+      "year": 2020,
+      "text": "山下遼弥, 北地雄, 田中優太, 井澤優衣, 野口雄太, 原島宏明, 宮野佐年. 歩行リハビリテーションロボットの使用は回復を促進する―multiple baseline法を用いた4症例の検討―. 第18回日本臨床医療福祉学会; 2020."
+    },
+    {
+      "year": 2020,
+      "text": "山下遼弥, 北地雄, 田中優太, 井澤優衣, 野口雄太, 原島宏明, 宮野佐年. 慢性期脳卒中片麻痺患者に対するHondaゲイトトレーナーの歩行速度への効果. 第39回東京都理学療法学術大会; 2020年度演題（2021年1月開催）."
+    },
+    {
+      "year": 2020,
+      "text": "野口雄太, 北地雄, 石田晋ノ介, 細谷亮一, 山本雅樹, 原島宏明, 宮野佐年. Heel rocker機能低下を呈する脳卒中片麻痺者に対する足首アシスト装置CoCoroe AADの使用効果の検討. 第39回東京都理学療法学術大会; 2020年度演題（2021年1月開催）."
+    },
+    {
+      "year": 2020,
+      "text": "田中優太, 原島宏明, 宮野佐年, 北地雄, 石田晋ノ介, 山下遼弥, 野村篤, 大塚真衣. 回復期脳卒中片麻痺患者に対するHondaゲイトトレーナー使用における快適歩行速度への効果―ABデザインによるシングルケーススタディ―. 第39回東京都理学療法学術大会; 2020年度演題（2021年1月開催）."
+    },
+    {
+      "year": 2019,
+      "text": "北地雄, 宮野佐年. リハビリテーションに対する意欲は回復と転帰に影響を及ぼす. 第54回日本理学療法学術大会; 2019. O2-136."
+    },
+    {
+      "year": 2019,
+      "text": "北地雄, 宮野佐年. 脳卒中片麻痺者の麻痺側股関節、足関節筋力測定の信頼性と妥当性. 第54回日本理学療法学術大会; 2019. 1P5-04."
+    },
+    {
+      "year": 2019,
+      "text": "北地雄, 石田晋ノ介, 宮野佐年. 脳卒中片麻痺歩行の矢状面上2次元歩行分析―歩行速度と関節運動の関係―. 第54回日本理学療法学術大会; 2019. O1-25."
+    },
+    {
+      "year": 2019,
+      "text": "石田晋ノ介, 北地雄, 宮野佐年. 脳卒中片麻痺者における力学的エネルギーと麻痺側筋力の関係. 第54回日本理学療法学術大会; 2019. 1P2-12."
+    },
+    {
+      "year": 2019,
+      "text": "北地雄, 石田晋ノ介, 原島宏明, 宮野佐年. Trailing limb angleと関節角度および筋力の関係. STROKE2019 第44回日本脳卒中学会学術集会; 2019."
+    },
+    {
+      "year": 2019,
+      "text": "石田晋ノ介, 北地雄, 宮野佐年. 脳卒中片麻痺患者における力学的エネルギーと快適歩行速度の関係. 第17回日本神経理学療法学会学術大会; 2019."
+    },
+    {
+      "year": 2019,
+      "text": "林勇希, 俵杏那, 安田和弘, 北地雄, 原島宏明, 岩田浩康. 脳卒中片麻痺患者における不可知なケイデンス向上が可能なリズム誘引デバイスの開発. ロボティクス・メカトロニクス講演会2019; 2019. 2P1-M07."
+    },
+    {
+      "year": 2019,
+      "text": "林勇希, 安田和弘, 北地雄, 原島宏明, 岩田浩康. 脳卒中患者の歩行ケイデンスを不可知に向上させるリズム誘引デバイスに関する臨床評価. LIFE2019; 2019."
+    },
+    {
+      "year": 2019,
+      "text": "林勇希, 安田和弘, 北地雄, 原島宏明, 岩田浩康. 触覚バイオフィードバックに基づく歩行リハビリ支援システム―第17報：知覚共感ウェアを用いた振動遷移における認知負荷の検証―. 第20回計測自動制御学会システムインテグレーション部門講演会（SI2019）; 2019. 2D5-05."
+    },
+    {
+      "year": 2019,
+      "text": "西村潤也, 青木貴弘, 神原楓, 北地雄, 岩室賢治, 伊藤卓也, 砂田将俊, 前場覚, 原島宏明, 宮野佐年. 心臓血管外科手術術後早期リハビリテーション介入症例における退院時最大歩行距離に関連する因子の検討. 第46回日本集中治療医学会学術集会; 2019. O123-2."
+    },
+    {
+      "year": 2019,
+      "text": "佐藤圭祐, 原島宏明, 北地雄, 岩室賢治, 伊藤卓也, 砂田将俊, 小田誠, 宮野佐年. 胸腔鏡補助下肺癌手術における早期退院要因の検討. 第46回日本集中治療医学会学術集会; 2019. O123-4."
+    },
+    {
+      "year": 2019,
+      "text": "石塚眞珠, 原辰成, 北地雄, 羽生信義. 当院がんリハビリテーション対象患者の転帰先を決める因子の検討―歩行状態と栄養指標に着目して―. 第7回区西部・西南部ブロック理学療法学術大会; 2019."
+    },
+    {
+      "year": 2019,
+      "text": "上路綾乃, 原辰成, 北地雄, 白瀬歩, 宮野佐年, 坪井麻里佳, 柏原一水. 脳梗塞両片麻痺患者に対しウェルウォークWW-1000にて介入した一症例―Pusher症候群を有する症例への介入―. 第7回区西部・西南部ブロック理学療法学術大会; 2019."
+    },
+    {
+      "year": 2018,
+      "text": "北地雄, 石田晋ノ介, 佐藤春彦, 原島宏明, 宮野佐年. 脳卒中片麻痺者の歩行中の関節可動域と歩行速度の関係―ImageJを用いた矢状面上2次元歩行解析―. 第16回日本神経理学療法学術大会; 2018. P-B-16-7."
+    },
+    {
+      "year": 2018,
+      "text": "北地雄, 原島宏明, 宮野佐年. ハンドヘルドダイナモメーターを用いた徒手筋力測定の信頼性と妥当性. 第23回日本基礎理学療法学会学術大会; 2018. P6-15."
+    },
+    {
+      "year": 2018,
+      "text": "石田晋ノ介, 北地雄, 原島宏明, 宮野佐年. 脳卒中片麻痺歩行の2次元運動学的分析と快適歩行速度. 第16回日本神経理学療法学術大会; 2018. P5-20."
+    },
+    {
+      "year": 2018,
+      "text": "北地雄, 石田晋ノ介, 原島宏明, 宮野佐年. 脳卒中片麻痺者の歩行中の関節可動域と最大歩行速度の関係―ImageJを用いた矢状面上2次元歩行解析―. 第23回日本基礎理学療法学会学術大会; 2018. P5-11."
+    },
+    {
+      "year": 2018,
+      "text": "北地雄, 原島宏明, 宮野佐年. 新規導入したリハビリテーションロボットに対する理学療法士の興味と使用状況調査. 第37回東京都理学療法学術大会; 2018."
+    },
+    {
+      "year": 2018,
+      "text": "北地雄. 足首アシスト装置の効果検証―装具なし，ダブルクレンザック継手，足首アシストによる歩行時の関節運動，筋活動の比較―. 第1回AAD研究会; 2018."
+    },
+    {
+      "year": 2018,
+      "text": "林勇希, 安田和弘, 北地雄, 原島宏明, 岩田浩康. 触覚バイオフィードバックに基づく歩行リハビリ支援システム―第15報：片麻痺を対象としたパイロットスタディ―. LIFE2018; 2018."
+    },
+    {
+      "year": 2018,
+      "text": "林勇希, 安田和弘, 北地雄, 原島宏明, 岩田浩康. 触覚バイオフィードバックに基づく歩行リハビリ支援システム―第16報：知覚共感ウェアを用いた中期的介入による比較研究―. 第19回計測自動制御学会システムインテグレーション部門講演会（SI2018）; 2018."
+    },
+    {
+      "year": 2018,
+      "text": "松本亜美, 川口みなみ, 北地雄, 原島宏明, 矢部敬之. 入退院時の検査所見の変化と転帰先の関係. 第82回日本循環器学会学術集会; 2018."
+    },
+    {
+      "year": 2017,
+      "text": "齋地健太, 安田和弘, 北地雄, 原島宏明, 岩田浩康. 触覚バイオフィードバックに基づく歩行リハビリ支援システム―第14報：知覚共感ウェアによる中期介入効果検証―. 第18回計測自動制御学会システムインテグレーション部門講演会（SI2017）; 2017."
+    },
+    {
+      "year": 2017,
+      "text": "小林凌, 北地雄, 原島宏明, 宮野佐年. 脳卒中患者と大腿骨近位部骨折患者の歩行に対する自信の違いとその影響. 第5回区西部・西南部ブロック理学療法学会; 2017."
+    },
+    {
+      "year": 2017,
+      "text": "高木瑛里, 松本浩一, 北地雄, 原島宏明, 宮野佐年. 転帰先に関与するNIHSS下位項目の検討. 第5回区西部・西南部ブロック理学療法学会; 2017."
+    },
+    {
+      "year": 2017,
+      "text": "橋本浩紀, 北地雄, 原島宏明, 宮野佐年. HONDA歩行アシストの即時・中期効果. 第4回歩行リハビリテーション研究会; 2017."
+    },
+    {
+      "year": 2016,
+      "text": "北地雄, 岡島亜美, 鈴木淳志, 清水陽介, 山崎摩耶, 本橋佳那, 原島宏明, 宮野佐年. 脳卒中急性期におけるリハビリテーションの強度と量および帰結の関係. 第51回日本理学療法学術大会; 2016. P-NV-11-2."
+    },
+    {
+      "year": 2016,
+      "text": "佐藤圭祐, 北地雄, 原島宏明, 宮野佐年. 脳卒中患者への早期離床訓練開始に対する効果の検討. 第35回関東甲信越ブロック理学療法士学会; 2016. O-059."
+    },
+    {
+      "year": 2016,
+      "text": "齋地健太, 安田和弘, 北地雄, 貝吹奈緒美, 原島宏明, 岩田浩康. 触覚バイオフィードバックに基づく歩行リハビリ支援システム―第11報：知覚共感ウェアによる片麻痺者への歩行介入―. ロボティクス・メカトロニクス講演会2016; 2016."
+    },
+    {
+      "year": 2016,
+      "text": "齋地健太, 安田和弘, 北地雄, 貝吹奈緒美, 原島宏明, 岩田浩康. 触覚バイオフィードバックに基づく歩行リハビリ支援システム―第12報：足接地パターンの背部への振動付与に対する歩行適応過程の検証―. LIFE2016; 2016."
+    },
+    {
+      "year": 2016,
+      "text": "川口みなみ, 北地雄, 原島宏明, 宮野佐年. 当院回復期リハ病棟入院患者における栄養状態と、ADL帰結、退院先との関係. 第14回日本臨床医療福祉学会; 2016."
+    },
+    {
+      "year": 2016,
+      "text": "渡邊恵里, 吉田豊, 北地雄, 原島宏明, 宮野佐年. 脳梗塞患者における退院時歩行自立の機能予後に影響する因子. 第14回日本臨床医療福祉学会; 2016."
+    },
+    {
+      "year": 2015,
+      "text": "北地雄, 鈴木淳志, 清水陽介, 髙橋美晴, 岡島亜美, 澤田なお, 原島宏明, 宮野佐年. 脳卒中者の日常生活の改善を予測する―回復期リハビリテーション病棟における日常生活の改善の特徴と入院時評価による改善度の予測―. 第50回日本理学療法学術大会; 2015."
+    },
+    {
+      "year": 2015,
+      "text": "北地雄, 鈴木淳志, 清水陽介, 岡島亜美, 髙橋美晴, 澤田なお, 原島宏明, 宮野佐年. 回復期リハビリテーション病棟における脳卒中者の日常生活の回復と社会的サポートの関係. 第50回日本理学療法学術大会; 2015."
+    },
+    {
+      "year": 2015,
+      "text": "北地雄, 鈴木淳志, 清水陽介, 原島宏明, 宮野佐年. 脳卒中後の抑うつ，アパシー，およびQOLが帰結に及ぼす影響. 第52回日本リハビリテーション医学会学術集会; 2015."
+    },
+    {
+      "year": 2015,
+      "text": "鈴木淳志, 北地雄, 原島宏明, 宮野佐年. 入院時Gait Efficacy Scaleにより退院時日常生活動作を予測する. 第52回日本リハビリテーション医学会学術集会; 2015."
+    },
+    {
+      "year": 2015,
+      "text": "岡島亜美, 山崎摩耶, 鈴木淳志, 清水陽介, 北地雄, 原島宏明, 宮野佐年. NIHSSにて脳梗塞患者の退院時歩行自立度の予後予測は可能か. 第34回関東甲信越ブロック理学療法士学会; 2015. O-099."
+    },
+    {
+      "year": 2015,
+      "text": "佐藤圭祐, 北地雄, 原島宏明, 宮野佐年. 脳梗塞患者への早期離床訓練開始に対する検討. 第4回区西南部・西部ブロック学術集会; 2015."
+    },
+    {
+      "year": 2015,
+      "text": "堀川峻太郎, 安田和弘, 貝吹奈緒美, 北地雄, 原島宏明, 岩田浩康. 足圧中心位置の振動BFデバイスを用いた片麻痺歩行訓練に関する研究―荷重感覚の丁度可知差異を利用した麻痺側への非明示的加重誘導手法―. ロボティクス・メカトロニクス講演会2015; 2015."
+    },
+    {
+      "year": 2014,
+      "text": "北地雄, 鈴木淳志, 高橋美晴, 尾崎慶多, 柴田諭史, 原島宏明, 新見昌央, 宮野佐年. 脳卒中後回復期における感情の状態と身体機能，日常生活機能，Quality of Lifeの関係. 第49回日本理学療法学術大会; 2014."
+    },
+    {
+      "year": 2014,
+      "text": "清藤恭貴, 北地雄, 鈴木淳志, 尾崎慶多, 高橋美晴, 柴田諭史, 原島宏明, 新見昌央, 宮野佐年. 脳卒中に特異的なQuality of Lifeとその関連要因. 第49回日本理学療法学術大会; 2014."
+    },
+    {
+      "year": 2014,
+      "text": "鈴木淳志, 北地雄, 尾崎慶多, 高橋美晴, 原島宏明, 新見昌央, 宮野佐年. Gait Efficacy Scaleと入院患者の運動機能・日常生活活動の関連について. 第49回日本理学療法学術大会; 2014."
+    },
+    {
+      "year": 2014,
+      "text": "北地雄, 鈴木淳志, 尾崎慶多, 高橋美晴, 柴田諭史, 原島宏明, 新見昌央, 宮野佐年. 脳卒中後の抑うつ症状とアパシーの関連要因. 第49回日本理学療法学術大会; 2014."
+    },
+    {
+      "year": 2014,
+      "text": "北地雄, 鈴木淳志, 尾崎慶多, 高橋美晴, 柴田諭史, 原島宏明, 新見昌央, 宮野佐年. リハビリテーションに対する期待度は日常生活自立度や気分に影響される. 第51回日本リハビリテーション医学会学術集会; 2014."
+    },
+    {
+      "year": 2013,
+      "text": "北地雄, 原島宏明, 宮野佐年. 脳卒中片麻痺者の快適歩行と最大歩行の関係性および速度変化に関する検討. 第48回日本理学療法学術大会; 2013."
+    },
+    {
+      "year": 2012,
+      "text": "北地雄, 原島宏明, 宮野佐年. バランス能力を構成する因子と歩行自立度との関係―Functional Balance Scaleによる検討―. 第47回日本理学療法学術大会; 2012."
+    },
+    {
+      "year": 2012,
+      "text": "北地雄, 小平裕也, 蛭田崇弘, 高柳雅則, 佐藤優史, 長谷川賢, 原島宏明, 宮野佐年. 間主観的なFalls Efficacy Scale―対象者のFESと担当セラピストのFESの差異および動作能力、運動イメージ、歩行自立度との関係―. 第47回日本理学療法学術大会; 2012."
+    },
+    {
+      "year": 2011,
+      "text": "北地雄, 重國宏次, 佐藤優史, 清藤恭貴, 原辰成, 古川広明, 原島宏明, 角田亘. パフォーマンステストのばらつきから歩行の安全性を予測する. 第46回日本理学療法学術大会; 2011."
+    },
+    {
+      "year": 2011,
+      "text": "北地雄, 佐藤優史, 原辰成, 清藤恭貴, 重國宏次, 古川広明, 原島宏明, 角田亘. 運動イメージの誤差は歩行能力と関係する. 第46回日本理学療法学術大会; 2011. 第46回日本理学療法学術大会 奨励賞受賞演題."
+    },
+    {
+      "year": 2010,
+      "text": "北地雄, 原辰成, 重國宏次. 歩行自立を判断する指標としての歩行予備能―回復期脳卒中患者を対象として―. 第45回日本理学療法学術大会; 2010."
+    },
+    {
+      "year": 2009,
+      "text": "北地雄, 原辰成. 歩行の至適・最大速度の再現性と歩行予備能について―健常成人によるTUGを用いた基礎研究―. 第44回日本理学療法学術大会; 2009."
+    },
+    {
+      "year": 2009,
+      "text": "北地雄. プッシャー現象を呈した一症例の回復過程に関する考察. 第6回日本理学療法士協会神経系理学療法研究部会学術集会; 2009; 長崎."
+    }
+  ]
+};
